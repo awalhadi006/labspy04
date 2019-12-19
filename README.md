@@ -1,6 +1,6 @@
 <h1> Tugas Praktikum 4 </h1>
 <h3> Penjelasan Program </h3>
-  <p> Program ini adalah program penambahan data list secara sederhana.</br>
+  <p> Program ini adalah program penambahan data menggunakan list secara sederhana.</br>
   Cara kerjanya adalah sebagai berikut :</br>
   1. Pertama, adalah menggunakan fungsi <b>while</b>. Fungsi ini digunakan agar program dapat berjalan berulang-ulang ketika diminta untuk menambahkan sebuah data.</br>
   2. Kedua, didalam while terdapat fungsi <b>if</b>. Fungsi ini digunakan agar dapat membuat sebuah pilihan, jika memilih <em>Y</em> akan menambah data, dan jika memilih <em>T</em> maka penambahan data akan terhenti, dan selanjutnya akan menjalankan perintah berikutnya.</br>
